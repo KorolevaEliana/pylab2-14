@@ -1,0 +1,136 @@
+{
+    "products": [
+        {
+            "name": "Шоколад",
+            "price": 50,
+            "available": true,
+            "weight": 100
+        },
+        {
+            "name": "Кофе",
+            "price": 100,
+            "available": false,
+            "weight": 250
+        },
+        {
+            "name": "Чай",
+            "price": 70,
+            "available": true,
+            "weight": 50
+        },
+        {
+            "name": "Кофе",
+            "price": 65656,
+            "weight": 3,
+            "available": "НЕ"
+        },
+        {
+            "name": "Яблоко",
+            "price": 34349,
+            "weight": 4,
+            "available": "ДА"
+        },
+        {
+            "name": "Я",
+            "price": 5,
+            "weight": 5,
+            "available": "А"
+        },
+        {
+            "name": "Я",
+            "price": 5,
+            "weight": 5,
+            "available": true
+        },
+        {
+            "name": "Пвав",
+            "price": 50,
+            "weight": 3,
+            "available": false
+        },
+        {
+            "name": "Кофий",
+            "price": 5,
+            "weight": 7,
+            "available": true
+        },
+        {
+            "name": "Шашлык",
+            "price": 5000,
+            "weight": 5765,
+            "available": false
+        },
+        {
+            "name": "Ааалкоголь",
+            "price": 50,
+            "weight": 500,
+            "available": false
+        },
+        {
+            "name": "Лав",
+            "price": 5,
+            "weight": 5,
+            "available": true
+        },
+        {
+            "name": "Молочко",
+            "price": 4,
+            "weight": 5,
+            "available": true
+        },
+        {
+            "name": "Яблоки",
+            "price": 4,
+            "weight": 8,
+            "available": true
+        },
+        {
+            "name": "А",
+            "price": 5,
+            "weight": 5,
+            "available": false
+        },
+        {
+            "name": "5",
+            "price": 5,
+            "weight": 5,
+            "available": false
+        },
+        {
+            "name": "5",
+            "price": 5,
+            "weight": 5,
+            "available": false
+        },
+        {
+            "name": "5",
+            "price": 5,
+            "weight": 5,
+            "available": false
+        },
+        {
+            "name": "Яблоко",
+            "price": 5,
+            "weight": 5,
+            "available": true
+        },
+        {
+            "name": "А",
+            "price": 4,
+            "weight": 4,
+            "available": true
+        },
+        {
+            "name": "А",
+            "price": 4,
+            "weight": 4,
+            "available": false
+        },
+        {
+            "name": "Я",
+            "price": 43,
+            "weight": 3,
+            "available": false
+        }
+    ]
+}
